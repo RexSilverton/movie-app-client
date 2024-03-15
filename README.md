@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,ts" />
   <br/>
-  <a href="https://movie-web.github.io/links/discord"><kbd>🔵 discord</kbd></a> <a href="https://movie-web.github.io/docs"><kbd>🟢 docs</kbd></a>
+  <a href="https://discord.gg/HznaRV6d77"><kbd>🔵 discord</kbd></a> <a href="https://movie-web.github.io/docs"><kbd>🟢 docs</kbd></a>
 </p>
 <br/><br/>
 
